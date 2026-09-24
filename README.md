@@ -1,4 +1,4 @@
-# divisionator-c#
+# divisionator-csharp
 
 A demo of a function that finds all integers that cleanly divide any given integer.
 This function is essentially a factor finder.
